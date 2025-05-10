@@ -1,0 +1,95 @@
+{
+  "degen": {
+    "keywords": [
+      "degen",
+      "ape",
+      "yolo"
+    ],
+    "description": "Degenerate gambler who apes into brand-new meme coins and high-APY farms without due diligence.",
+    "default_caption": "Full degen mode \u2013 who needs research?"
+  },
+  "copium": {
+    "keywords": [
+      "copium",
+      "cope",
+      "hopium"
+    ],
+    "description": "The fictional drug inhaled to ease the pain of losses or missed pumps.",
+    "default_caption": "Still bullish after 90% dump. Copium engaged."
+  },
+  "diamond_hands": {
+    "keywords": [
+      "diamond hands",
+      "hodl",
+      "never sell",
+      "chad"
+    ],
+    "description": "Holding through all volatility with unbreakable conviction.",
+    "default_caption": "Diamond hands \ud83d\udc8e\ud83e\udd32 \u2013 selling is for mortals."
+  },
+  "fomo": {
+    "keywords": [
+      "fomo",
+      "miss",
+      "top",
+      "blast"
+    ],
+    "description": "Fear of Missing Out, buying impulsively to catch the pump.",
+    "default_caption": "Buy the top? Sure, can't miss the party!"
+  },
+  "holding": {
+    "keywords": [
+      "hodl",
+      "holding",
+      "long term"
+    ],
+    "description": "Originated from the typo HODL; keep your coins no matter what.",
+    "default_caption": "I am HODLING \u2013 deal with it."
+  },
+  "jeet": {
+    "keywords": [
+      "jeet",
+      "paper hands",
+      "sold"
+    ],
+    "description": "Just Exit Early Trader who cashes out at first dip.",
+    "default_caption": "Jeet at 1\u00d7 \u2013 watching others hit millies."
+  },
+  "rekt": {
+    "keywords": [
+      "rekt",
+      "liquidated",
+      "wrecked",
+      "dust"
+    ],
+    "description": "Total loss through liquidation or rugpull.",
+    "default_caption": "Liquidated again \u2013 get rekt!"
+  },
+  "rugpull": {
+    "keywords": [
+      "rug",
+      "rugpull",
+      "scam"
+    ],
+    "description": "Developers pull liquidity and disappear, leaving token worthless.",
+    "default_caption": "Liquidity gone. Dreams gone."
+  },
+  "valhalla": {
+    "keywords": [
+      "valhalla",
+      "moon",
+      "god candle"
+    ],
+    "description": "Mythic end goal where diamond hands finally pay off.",
+    "default_caption": "See you in Valhalla \ud83d\ude80"
+  },
+  "wagmi": {
+    "keywords": [
+      "wagmi",
+      "together",
+      "make it"
+    ],
+    "description": "Community rallying cry \u2013 We Are Gonna Make It!",
+    "default_caption": "WAGMI \u2013 we got this!"
+  }
+}
