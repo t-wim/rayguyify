@@ -6,7 +6,7 @@
       "yolo"
     ],
     "description": "Degenerate gambler who apes into brand-new meme coins and high-APY farms without due diligence.",
-    "default_caption": "Full degen mode \u2013 who needs research?"
+    "default_scene": "A frog-eyed degen launches into the void, charts exploding behind him, surrounded by glowing tokens – no parachute, just pure YOLO."
   },
   "copium": {
     "keywords": [
@@ -15,7 +15,7 @@
       "hopium"
     ],
     "description": "The fictional drug inhaled to ease the pain of losses or missed pumps.",
-    "default_caption": "Still bullish after 90% dump. Copium engaged."
+    "default_scene": "A character sits in ruins, hooked to a glowing \"COPIUM\" tank, staring blankly at a red chart – smoke rises like lost dreams."
   },
   "diamond_hands": {
     "keywords": [
@@ -25,7 +25,7 @@
       "chad"
     ],
     "description": "Holding through all volatility with unbreakable conviction.",
-    "default_caption": "Diamond hands \ud83d\udc8e\ud83e\udd32 \u2013 selling is for mortals."
+    "default_scene": "In the eye of the storm, a lone figure stands firm on a cliff, clutching a shining coin, lightning illuminating their calm face."
   },
   "fomo": {
     "keywords": [
@@ -35,7 +35,7 @@
       "blast"
     ],
     "description": "Fear of Missing Out, buying impulsively to catch the pump.",
-    "default_caption": "Buy the top? Sure, can't miss the party!"
+    "default_scene": "Trembling fingers hover over a 'BUY' button, while a rocket lifts off in the background – the price chart is a blur of green candles."
   },
   "holding": {
     "keywords": [
@@ -44,7 +44,7 @@
       "long term"
     ],
     "description": "Originated from the typo HODL; keep your coins no matter what.",
-    "default_caption": "I am HODLING \u2013 deal with it."
+    "default_scene": "Two figures sit inside a cozy bunker made of wallets, sipping tea, as the outside world crashes in a sea of red."
   },
   "jeet": {
     "keywords": [
@@ -53,7 +53,7 @@
       "sold"
     ],
     "description": "Just Exit Early Trader who cashes out at first dip.",
-    "default_caption": "Jeet at 1\u00d7 \u2013 watching others hit millies."
+    "default_scene": "A trader bails out early with a tiny parachute as others ride a rocket – he looks back nervously while missing the moon."
   },
   "rekt": {
     "keywords": [
@@ -63,7 +63,7 @@
       "dust"
     ],
     "description": "Total loss through liquidation or rugpull.",
-    "default_caption": "Liquidated again \u2013 get rekt!"
+    "default_scene": "A scorched terminal flickers with liquidation alerts, smoke rising from a mouse – a stunned trader lies face down on a broken desk."
   },
   "rugpull": {
     "keywords": [
@@ -72,7 +72,7 @@
       "scam"
     ],
     "description": "Developers pull liquidity and disappear, leaving token worthless.",
-    "default_caption": "Liquidity gone. Dreams gone."
+    "default_scene": "A neon-lit party turns to chaos as the dance floor vanishes beneath the crowd – the dev slips out the back with a moneybag."
   },
   "valhalla": {
     "keywords": [
@@ -81,7 +81,7 @@
       "god candle"
     ],
     "description": "Mythic end goal where diamond hands finally pay off.",
-    "default_caption": "See you in Valhalla \ud83d\ude80"
+    "default_scene": "A golden gateway opens in the clouds – warriors with tokens raised march upward, led by glowing \"diamond hands\"."
   },
   "wagmi": {
     "keywords": [
@@ -89,7 +89,141 @@
       "together",
       "make it"
     ],
-    "description": "Community rallying cry \u2013 We Are Gonna Make It!",
-    "default_caption": "WAGMI \u2013 we got this!"
+    "description": "Community rallying cry – We Are Gonna Make It!",
+    "default_scene": "A ragtag army of frogs, cats, and anons marches through crypto ruins – banners flying high with \"WAGMI\" as their battle cry."
+  },
+  "revenge_pump": {
+    "keywords": [
+      "revenge pump",
+      "revenge",
+      "pump"
+    ],
+    "description": "A strong comeback rally after a harsh dip or betrayal.",
+    "default_scene": "A phoenix made of candlesticks rises from the ashes of a dumped chart – its wings shimmer with vengeance."
+  },
+  "thanks_for_playing": {
+    "keywords": [
+      "thanks for playing",
+      "thanks",
+      "playing"
+    ],
+    "description": "Sarcastic farewell after a loss or failed trade.",
+    "default_scene": "A sarcastic clown bows under falling confetti made of failed trade receipts – a neon sign above: \"Thanks for Playing.\""
+  },
+  "just_rugged": {
+    "keywords": [
+      "just rugged",
+      "rugged"
+    ],
+    "description": "Sudden liquidity pull or dev dump right after launch.",
+    "default_scene": "A launchpad explodes milliseconds after ignition – coins disintegrate mid-air, while a shadowy dev slips away."
+  },
+  "snipers": {
+    "keywords": [
+      "snipers",
+      "sniper"
+    ],
+    "description": "High-frequency bots or traders dumping early after sniping launch.",
+    "default_scene": "A battlefield at token launch: laser-eyed bots trigger early, while real holders crawl for cover behind charts."
+  },
+  "retire_my_bloodline": {
+    "keywords": [
+      "retire my bloodline",
+      "retire",
+      "bloodline"
+    ],
+    "description": "Extreme emotional reaction to heavy losses.",
+    "default_scene": "A lone trader kneels before a screen showing -99.99%, tears mixing with rain, an ancestral portrait fades behind him."
+  },
+  "don't_farm": {
+    "keywords": [
+      "don't farm",
+      "farming",
+      "farm"
+    ],
+    "description": "Skepticism toward yield farming, often sarcastic.",
+    "default_scene": "A barren farming field with broken APY signs – in the distance, a lone figure digs by hand for a single coin."
+  },
+  "work_hard_for_your_bags": {
+    "keywords": [
+      "work hard for your bags",
+      "work",
+      "bags"
+    ],
+    "description": "Warning to not rely on passive yield; hustle for profits.",
+    "default_scene": "A factory scene: exhausted workers hammer tokens on an assembly line – no shortcuts, only sweat for bags."
+  },
+  "still_fading": {
+    "keywords": [
+      "still fading",
+      "still",
+      "fading"
+    ],
+    "description": "Criticism of those who still doubt the token/project.",
+    "default_scene": "A skeptical trader stands outside a glowing portal labeled \"MOON\" while others leap through with smiles and tokens in hand."
+  },
+  "dex_update_will_be_paid": {
+    "keywords": [
+      "Dex update will be paid",
+      "Dex",
+      "update",
+      "paid"
+    ],
+    "description": "Updates that benefit holders will have financial impact.",
+    "default_scene": "A mystical forge glows as devs craft golden coins – above them, a DEX logo pulses with growing energy."
+  },
+  "these_streets_are_brutal": {
+    "keywords": [
+      "these streets are brutal",
+      "streets", 
+      "brutal"
+    ],
+    "description": "Comment on how rough the market is.",
+    "default_scene": "Dark neon city alleys filled with broken charts, desperate traders, and scam signs – graffiti reads: \"Only the strong survive.\""
+  },
+  "gg_mfers": {
+    "keywords": [
+      "gg mfers",
+      "gg",
+      "mfers"
+    ],
+    "description": "Game over. Usually after a big loss or rug.",
+    "default_scene": "A spinning gamer chair faces a busted trading setup – on the monitor: \"GG MFers – see you next cycle.\""
+  },
+  "on_to_the_next_one": {
+    "keywords": [
+      "on to the next one",
+      "next"
+    ],
+    "description": "Quick shift to next hype/token after loss or exit.",
+    "default_scene": "A trader with a half-packed bag walks away from burning charts toward a flickering ad for the \"Next Big Thing.\""
+  },
+  "giga_send": {
+    "keywords": [
+      "giga send",
+      "giga",
+      "send"
+    ],
+    "description": "Massive pump expected imminently.",
+    "default_scene": "An entire stadium watches as a rocket bursts from a giant green candlestick – the air crackles with raw hype."
+  },
+  "holder_count_still_growing": {
+    "keywords": [
+      "holder count still growing",
+      "holder",
+      "count",
+      "growing"
+    ],
+    "description": "Despite price drop, belief in growth continues.",
+    "default_scene": "A forest of tiny wallet trees grows despite the storm – each new leaf glows with a fresh wallet address."
+  },
+  "great_narrative": {
+    "keywords": [
+      "great narrative",
+      "great",
+      "narrative"
+    ],
+    "description": "Market belief in hype-worthy storytelling.",
+    "default_scene": "A red-carpet premiere for a token story – posters of dragons, heroes, and moons decorate a crowd of eager holders."
   }
 }
